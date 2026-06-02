@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Hand Gesture Control for YouTube is a real-time computer vision and machine learning system that allows users to control YouTube videos using hand gestures through a webcam. The project eliminates the need for a keyboard or mouse by translating hand movements into media control actions.
+The AI Hand Gestures Control for YouTube is a real-time computer vision and machine learning system that allows users to control YouTube videos using hand gestures through a webcam. The project eliminates the need for a keyboard or mouse by translating hand movements into media control actions.
 
 The system uses MediaPipe for hand landmark detection, machine learning for gesture classification, and automation libraries to interact with YouTube through keyboard simulation.
 
